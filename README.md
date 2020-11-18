@@ -1,2 +1,2 @@
 # DATA-TYPES_JAVA
-app-->src-->main.class
+project codes in the file path = JAVAAPP10-->SRC-->Main.java
